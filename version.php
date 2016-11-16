@@ -29,5 +29,5 @@ $plugin->version = 2016071200;
 $plugin->requires = 2011060313;
 $plugin->component = 'qtype_truefalsewiris';
 $plugin->dependencies = array (
-	 'qtype_wq' => 2016071200
+     'qtype_wq' => 2016071200
 );
